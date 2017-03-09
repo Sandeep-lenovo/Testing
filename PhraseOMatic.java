@@ -10,6 +10,26 @@ public class PhraseOMatic {
                 "focused", "leveraged", "aligned", "targeted", "shared", "cooperative", "accelerated"};
         String[] wordListThree = {"process", "tipping-point", "solution", "architecture", "core competency",
                 "strategy", "mindshare", "portal", "space", "vision", "paradigm", "mission"};
+                    else
+            {
+                System.out.println("No more bottles of beer on the wall");
+            }
+                    else
+            {
+                System.out.println("No more bottles of beer on the wall");
+            }            else
+            {
+                System.out.println("No more bottles of beer on the wall");
+            }            else
+            {
+                System.out.println("No more bottles of beer on the wall");
+            }            else
+            {
+                System.out.println("No more bottles of beer on the wall");
+            }            else
+            {
+                System.out.println("No more bottles of beer on the wall");
+            }
         int oneLength = wordListOne.length;
         int twoLength = wordListTwo.length;
         int threeLength = wordListThree.length;
