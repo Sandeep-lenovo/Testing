@@ -6,12 +6,12 @@ public class BeerSong {
         {
             if (beerNum == 1)
             {
-                word = "bottle";
+                word = "bottle1";
             }
-            System.out.println(beerNum + " " + word + " of beer on the wall");
+            /*System.out.println(beerNum + " " + word + " of beer on the wall");
             System.out.println(beerNum + " " + word + " of beer");
             System.out.println("Take one down.");
-            System.out.println("Pass it around.");
+            System.out.println("Pass it around.");*/
             beerNum = beerNum - 1;
             if (beerNum > 0)
             {
