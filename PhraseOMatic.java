@@ -12,10 +12,17 @@ public class PhraseOMatic {
                 "strategy", "mindshare", "portal", "space", "vision", "paradigm", "mission"};
                     else
             {
+                System.out.println("No more bottles of beer on the wall")
+                
+           
+            }            else
+            {
                 System.out.println("No more bottles of beer on the wall");
+
             }            else
             {
                 System.out.println("No more bottles of beer on the wall1");
+
             }
         int oneLength = wordListOne.length;
         int twoLength = wordListTwo.length;
